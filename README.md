@@ -5,7 +5,7 @@ August, 16, 2020,
 ### https://omgswap.in
 ### https://app.omgswap.in
 
-## Initial Pool Token Oferring $OPM Start 17th August 2020. Only 30% will be sold from our Prime DEX build using GnoSYS Protocol
+## Initial Pool Token Oferring $OPM Start 17th August 2020. Only 30% will be sold from our Prime DEX build using GnoSIS Protocol
 ### More info visit https://omgswap.in
 
 ******************************************
