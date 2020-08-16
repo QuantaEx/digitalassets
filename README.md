@@ -2,7 +2,13 @@
 **********
 August, 16, 2020,
 ### Ǒmega Protocol
+### https://omgswap.in
+### https://app.omgswap.in
 
+## Initial Pool Token Oferring $OPM Start 17th August 2020. Only 30% will be sold from our Prime DEX build using GnoSYS Protocol
+### More info visit https://omgswap.in
+
+******************************************
 
 
 ## LIQUIDITY POOL
