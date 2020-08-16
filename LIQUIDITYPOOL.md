@@ -1,5 +1,5 @@
-# Investment basics of DeFi liquidity pools like Uniswap, OmegaSwap
-*****************************************************************
+# Basics of Invessting in DeFi liquidity pools like Uniswap, OmegaSwap
+**********
 August, 16, 2020,
 ### Ǒmega Protocol
 
